@@ -1,0 +1,9 @@
+Screen1_1 As screen:
+
+    Image1_1 As image:
+        Height: =60
+        Image: ='Background-OnChange'
+        ImagePosition: =ImagePosition.Fill
+        Width: =208
+        ZIndex: =1
+
