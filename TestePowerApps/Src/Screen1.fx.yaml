@@ -1,0 +1,36 @@
+Screen1 As screen:
+
+    Image1 As image:
+        Height: =592
+        Image: ='Background-OnChange'
+        ImagePosition: =ImagePosition.Fill
+        Width: =1366
+        ZIndex: =1
+
+    Button1 As button:
+        Fill: =RGBA(0, 0, 0, 0.66)
+        Height: =172
+        Text: ="Cadastro"
+        Width: =168
+        X: =150
+        Y: =493
+        ZIndex: =2
+
+    Button1_1 As button:
+        Fill: =RGBA(0, 0, 0, 0.66)
+        Height: =172
+        Text: ="Clientes"
+        Width: =168
+        X: =341
+        Y: =493
+        ZIndex: =3
+
+    Button1_2 As button:
+        Fill: =RGBA(0, 0, 0, 0.66)
+        Height: =172
+        Text: ="Produtos"
+        Width: =168
+        X: =535
+        Y: =493
+        ZIndex: =4
+
